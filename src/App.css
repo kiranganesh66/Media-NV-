@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+.nav {
+  background-color: blue;
+  display: flex;
+  justify-content: right;
+  padding: 10px;
+  list-style: none;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
